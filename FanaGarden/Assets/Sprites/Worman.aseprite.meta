@@ -166,10 +166,10 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 66
-      y: 45
-      width: 14
-      height: 3
+      x: 28
+      y: 58
+      width: 16
+      height: 2
     spriteID: 578288572c903b64caeb7b8b2c78ed7c
     spriteBone: []
     spriteOutline: []
@@ -178,7 +178,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 66, y: 45}
+    uvTransform: {x: 28, y: 58}
   - name: Worman_Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -186,10 +186,10 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 46
-      y: 45
-      width: 12
-      height: 4
+      x: 52
+      y: 58
+      width: 16
+      height: 2
     spriteID: 69fed4fa1dd618445895d1b0be2ecb3e
     spriteBone: []
     spriteOutline: []
@@ -198,7 +198,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 46, y: 45}
+    uvTransform: {x: 52, y: 58}
   - name: Worman_Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -206,10 +206,10 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 28
-      y: 45
-      width: 10
-      height: 5
+      x: 76
+      y: 58
+      width: 16
+      height: 2
     spriteID: 4b64cea07afb57545bec140c0e7bc68f
     spriteBone: []
     spriteOutline: []
@@ -218,7 +218,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 28, y: 45}
+    uvTransform: {x: 76, y: 58}
   - name: Worman_Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -226,7 +226,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 28
+      x: 100
       y: 58
       width: 16
       height: 2
@@ -238,7 +238,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 28, y: 58}
+    uvTransform: {x: 100, y: 58}
   - name: Worman_Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -246,8 +246,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 52
-      y: 58
+      x: 4
+      y: 68
       width: 16
       height: 2
     spriteID: e556493326a57ac498e015917465ab95
@@ -258,7 +258,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 52, y: 58}
+    uvTransform: {x: 4, y: 68}
   - name: Worman_Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -266,8 +266,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 76
-      y: 58
+      x: 28
+      y: 68
       width: 16
       height: 2
     spriteID: 43ec54ae723dbe8439f08f7813a7dcd1
@@ -278,7 +278,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 76, y: 58}
+    uvTransform: {x: 28, y: 68}
   - name: Worman_Frame_8
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -286,8 +286,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 100
-      y: 58
+      x: 52
+      y: 68
       width: 16
       height: 2
     spriteID: 7761f7706a4c478438345ce16a1953f2
@@ -298,7 +298,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 100, y: 58}
+    uvTransform: {x: 52, y: 68}
   - name: Worman_Frame_9
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -306,7 +306,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
+      x: 76
       y: 68
       width: 16
       height: 2
@@ -318,7 +318,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 68}
+    uvTransform: {x: 76, y: 68}
   - name: Worman_Frame_10
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -326,7 +326,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 28
+      x: 100
       y: 68
       width: 16
       height: 2
@@ -338,7 +338,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 28, y: 68}
+    uvTransform: {x: 100, y: 68}
   - name: Worman_Frame_11
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -346,8 +346,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 52
-      y: 68
+      x: 4
+      y: 78
       width: 16
       height: 2
     spriteID: 45f776c63bbc90d40ab590b52c314cdc
@@ -358,7 +358,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 52, y: 68}
+    uvTransform: {x: 4, y: 78}
   - name: Worman_Frame_12
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -366,8 +366,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 76
-      y: 68
+      x: 28
+      y: 78
       width: 16
       height: 2
     spriteID: 6834cb372cb1d8c42ae18c79881e3295
@@ -378,7 +378,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 76, y: 68}
+    uvTransform: {x: 28, y: 78}
   - name: Worman_Frame_13
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -386,8 +386,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 100
-      y: 68
+      x: 52
+      y: 78
       width: 16
       height: 2
     spriteID: 360f55735681c0c4aaf1cd93e8c4f13a
@@ -398,7 +398,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 100, y: 68}
+    uvTransform: {x: 52, y: 78}
   - name: Worman_Frame_14
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -406,7 +406,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
+      x: 76
       y: 78
       width: 16
       height: 2
@@ -418,7 +418,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 78}
+    uvTransform: {x: 76, y: 78}
   - name: Worman_Frame_15
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -426,7 +426,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 28
+      x: 100
       y: 78
       width: 16
       height: 2
@@ -438,108 +438,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 28, y: 78}
-  - name: Worman_Frame_16
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 52
-      y: 78
-      width: 16
-      height: 2
-    spriteID: 15bcaed037bc0b543805ec6cb95333d9
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 52, y: 78}
-  - name: Worman_Frame_17
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 76
-      y: 78
-      width: 16
-      height: 2
-    spriteID: d80cd66f6207be1439c9e0bb97a4ccee
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 76, y: 78}
-  - name: Worman_Frame_18
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 100
-      y: 78
-      width: 16
-      height: 2
-    spriteID: 5c0b6217ffaeb1046842946708d96984
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
     uvTransform: {x: 100, y: 78}
-  - name: Worman_Frame_19
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 88
-      width: 16
-      height: 2
-    spriteID: 075d5b02b7370344dba486ab6e570ccc
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 88}
-  - name: Worman_Frame_20
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 28
-      y: 88
-      width: 16
-      height: 2
-    spriteID: a1f9b62b06a10464385bc0f6c7a4d609
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 28, y: 88}
-  - name: Worman_Frame_21
+  - name: Worman_Frame_16
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -550,7 +450,7 @@ ScriptedImporter:
       y: 4
       width: 16
       height: 5
-    spriteID: 28e630b0ad8b16343ad3cf43768bfa79
+    spriteID: 15bcaed037bc0b543805ec6cb95333d9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -559,7 +459,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 52, y: 4}
-  - name: Worman_Frame_22
+  - name: Worman_Frame_17
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -568,6 +468,106 @@ ScriptedImporter:
       serializedVersion: 2
       x: 76
       y: 4
+      width: 16
+      height: 5
+    spriteID: d80cd66f6207be1439c9e0bb97a4ccee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 4}
+  - name: Worman_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 4
+      width: 16
+      height: 5
+    spriteID: 5c0b6217ffaeb1046842946708d96984
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 4}
+  - name: Worman_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 19
+      width: 16
+      height: 5
+    spriteID: 075d5b02b7370344dba486ab6e570ccc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 19}
+  - name: Worman_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 4
+      width: 16
+      height: 6
+    spriteID: a1f9b62b06a10464385bc0f6c7a4d609
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 4}
+  - name: Worman_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 16
+      height: 7
+    spriteID: 28e630b0ad8b16343ad3cf43768bfa79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Worman_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 19
       width: 16
       height: 5
     spriteID: 75e2a3430fce8fa4abac1027cda72d1b
@@ -578,7 +578,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 76, y: 4}
+    uvTransform: {x: 28, y: 19}
   - name: Worman_Frame_23
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -586,8 +586,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 100
-      y: 4
+      x: 52
+      y: 19
       width: 16
       height: 5
     spriteID: 202f3ad7f4d04a44f95cb1d1172ecc6e
@@ -598,7 +598,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 100, y: 4}
+    uvTransform: {x: 52, y: 19}
   - name: Worman_Frame_24
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -606,7 +606,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
+      x: 76
       y: 19
       width: 16
       height: 5
@@ -618,7 +618,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 19}
+    uvTransform: {x: 76, y: 19}
   - name: Worman_Frame_25
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -626,10 +626,10 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 28
-      y: 4
+      x: 100
+      y: 19
       width: 16
-      height: 6
+      height: 5
     spriteID: 1ef839c75671fc047b2e92d91be1cf7b
     spriteBone: []
     spriteOutline: []
@@ -638,7 +638,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 28, y: 4}
+    uvTransform: {x: 100, y: 19}
   - name: Worman_Frame_26
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -647,9 +647,9 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
-      y: 4
+      y: 32
       width: 16
-      height: 7
+      height: 5
     spriteID: dafd4e49dc4a2644bbec079f3a0057ca
     spriteBone: []
     spriteOutline: []
@@ -658,7 +658,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 4}
+    uvTransform: {x: 4, y: 32}
   - name: Worman_Frame_27
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -667,7 +667,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 28
-      y: 19
+      y: 32
       width: 16
       height: 5
     spriteID: b79c49b293f94454184749704c3974fa
@@ -678,7 +678,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 28, y: 19}
+    uvTransform: {x: 28, y: 32}
   - name: Worman_Frame_28
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -687,7 +687,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 52
-      y: 19
+      y: 32
       width: 16
       height: 5
     spriteID: d6a03e2930c324f47aa24ec85c901f1b
@@ -698,7 +698,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 52, y: 19}
+    uvTransform: {x: 52, y: 32}
   - name: Worman_Frame_29
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -707,7 +707,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 76
-      y: 19
+      y: 32
       width: 16
       height: 5
     spriteID: 11b33bbe35b4b0847a8d9d9f43ea40bc
@@ -718,7 +718,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 76, y: 19}
+    uvTransform: {x: 76, y: 32}
   - name: Worman_Frame_30
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -727,7 +727,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 100
-      y: 19
+      y: 32
       width: 16
       height: 5
     spriteID: 8a14abe66fa449841abd844b0ec3d9a5
@@ -738,108 +738,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 100, y: 19}
-  - name: Worman_Frame_31
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 32
-      width: 16
-      height: 5
-    spriteID: 8e8348a4e1af7a244b376a1d752845a4
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 32}
-  - name: Worman_Frame_32
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 28
-      y: 32
-      width: 16
-      height: 5
-    spriteID: bd1e9539627429a47bcc465a4859b8b4
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 28, y: 32}
-  - name: Worman_Frame_33
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 52
-      y: 32
-      width: 16
-      height: 5
-    spriteID: 1b6404f6d925fe3419133851c1b05907
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 52, y: 32}
-  - name: Worman_Frame_34
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 76
-      y: 32
-      width: 16
-      height: 5
-    spriteID: a29124f78e150c446a40196fc51ade8a
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 76, y: 32}
-  - name: Worman_Frame_35
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 100
-      y: 32
-      width: 16
-      height: 5
-    spriteID: 02937307c637fcd4797499cc3c877caa
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
     uvTransform: {x: 100, y: 32}
-  - name: Worman_Frame_36
+  - name: Worman_Frame_31
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -850,7 +750,7 @@ ScriptedImporter:
       y: 45
       width: 16
       height: 5
-    spriteID: ee110f14af00a5d46b8a92c5c2033483
+    spriteID: 8e8348a4e1af7a244b376a1d752845a4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -859,6 +759,106 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 45}
+  - name: Worman_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 45
+      width: 14
+      height: 3
+    spriteID: bd1e9539627429a47bcc465a4859b8b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 45}
+  - name: Worman_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 45
+      width: 12
+      height: 4
+    spriteID: 1b6404f6d925fe3419133851c1b05907
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 45}
+  - name: Worman_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 88
+      width: 16
+      height: 2
+    spriteID: a29124f78e150c446a40196fc51ade8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 88}
+  - name: Worman_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 45
+      width: 10
+      height: 5
+    spriteID: 02937307c637fcd4797499cc3c877caa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 45}
+  - name: Worman_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 88
+      width: 16
+      height: 2
+    spriteID: ee110f14af00a5d46b8a92c5c2033483
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 88}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
@@ -887,26 +887,26 @@ ScriptedImporter:
     - name: Worman_Frame_2
       frameIndex: 2
       cellRect:
-        x: 1
+        x: 0
         y: 0
-        width: 14
-        height: 3
+        width: 16
+        height: 16
       spriteId: 578288572c903b64caeb7b8b2c78ed7c
     - name: Worman_Frame_3
       frameIndex: 3
       cellRect:
-        x: 2
+        x: 0
         y: 0
-        width: 12
-        height: 4
+        width: 16
+        height: 16
       spriteId: 69fed4fa1dd618445895d1b0be2ecb3e
     - name: Worman_Frame_4
       frameIndex: 4
       cellRect:
-        x: 3
+        x: 0
         y: 0
-        width: 10
-        height: 5
+        width: 16
+        height: 16
       spriteId: 4b64cea07afb57545bec140c0e7bc68f
     - name: Worman_Frame_5
       frameIndex: 5
@@ -1002,7 +1002,7 @@ ScriptedImporter:
         x: 0
         y: 0
         width: 16
-        height: 16
+        height: 5
       spriteId: 15bcaed037bc0b543805ec6cb95333d9
     - name: Worman_Frame_17
       frameIndex: 17
@@ -1010,7 +1010,7 @@ ScriptedImporter:
         x: 0
         y: 0
         width: 16
-        height: 16
+        height: 5
       spriteId: d80cd66f6207be1439c9e0bb97a4ccee
     - name: Worman_Frame_18
       frameIndex: 18
@@ -1018,7 +1018,7 @@ ScriptedImporter:
         x: 0
         y: 0
         width: 16
-        height: 16
+        height: 5
       spriteId: 5c0b6217ffaeb1046842946708d96984
     - name: Worman_Frame_19
       frameIndex: 19
@@ -1026,7 +1026,7 @@ ScriptedImporter:
         x: 0
         y: 0
         width: 16
-        height: 16
+        height: 5
       spriteId: 075d5b02b7370344dba486ab6e570ccc
     - name: Worman_Frame_20
       frameIndex: 20
@@ -1034,7 +1034,7 @@ ScriptedImporter:
         x: 0
         y: 0
         width: 16
-        height: 16
+        height: 6
       spriteId: a1f9b62b06a10464385bc0f6c7a4d609
     - name: Worman_Frame_21
       frameIndex: 21
@@ -1042,7 +1042,7 @@ ScriptedImporter:
         x: 0
         y: 0
         width: 16
-        height: 5
+        height: 7
       spriteId: 28e630b0ad8b16343ad3cf43768bfa79
     - name: Worman_Frame_22
       frameIndex: 22
@@ -1074,7 +1074,7 @@ ScriptedImporter:
         x: 0
         y: 0
         width: 16
-        height: 6
+        height: 5
       spriteId: 1ef839c75671fc047b2e92d91be1cf7b
     - name: Worman_Frame_26
       frameIndex: 26
@@ -1082,7 +1082,7 @@ ScriptedImporter:
         x: 0
         y: 0
         width: 16
-        height: 7
+        height: 5
       spriteId: dafd4e49dc4a2644bbec079f3a0057ca
     - name: Worman_Frame_27
       frameIndex: 27
@@ -1127,18 +1127,18 @@ ScriptedImporter:
     - name: Worman_Frame_32
       frameIndex: 32
       cellRect:
-        x: 0
+        x: 1
         y: 0
-        width: 16
-        height: 5
+        width: 14
+        height: 3
       spriteId: bd1e9539627429a47bcc465a4859b8b4
     - name: Worman_Frame_33
       frameIndex: 33
       cellRect:
-        x: 0
+        x: 2
         y: 0
-        width: 16
-        height: 5
+        width: 12
+        height: 4
       spriteId: 1b6404f6d925fe3419133851c1b05907
     - name: Worman_Frame_34
       frameIndex: 34
@@ -1146,14 +1146,14 @@ ScriptedImporter:
         x: 0
         y: 0
         width: 16
-        height: 5
+        height: 16
       spriteId: a29124f78e150c446a40196fc51ade8a
     - name: Worman_Frame_35
       frameIndex: 35
       cellRect:
-        x: 0
+        x: 3
         y: 0
-        width: 16
+        width: 10
         height: 5
       spriteId: 02937307c637fcd4797499cc3c877caa
     - name: Worman_Frame_36
@@ -1162,7 +1162,7 @@ ScriptedImporter:
         x: 0
         y: 0
         width: 16
-        height: 5
+        height: 16
       spriteId: ee110f14af00a5d46b8a92c5c2033483
     linkedCells: []
     parentIndex: -1
