@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class JumpyFellaScript : MonoBehaviour
 {
-    Animator a;
+    public Animator a;
     bool grounded;
     bool holdHopp;
     bool hoppe;
@@ -18,10 +18,13 @@ public class JumpyFellaScript : MonoBehaviour
     public float hoppeKraft;
     int randomRetning;
     public int snuSjanse;
+    public bool rulle;
+    Vector3 rotation;
+    Vector3 movement;
+
     // Start is called before the first frame update
     void Start()
     {
-        a = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         grounded = true;
         retning = 1;
@@ -30,34 +33,49 @@ public class JumpyFellaScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if ( transform.rotation.x != 0)
+        transform.localScale = new Vector3(retning, 1, 1);
+        if (rulle)
         {
             a.SetBool("bliBall", true);
+            //if (transform.rotation.z < 180)
+            //{
+            //    retning = 1;
+            //}
+            //else
+            //{
+            //    retning = -1;
+            //}
+            rotation.z = rotation.z + fart *retning *Time.deltaTime;
+            movement.x = movement.x +fart *retning *Time.deltaTime;
+            transform.position = movement;
+            transform.Rotate(rotation * retning * Time.deltaTime * 100);
         }
-        transform.localScale = new Vector3(retning,1,1);
-        if (holdHopp)
+        if (!rulle)
         {
-            a.SetBool("jumpHold", true);
-            hoppeCharge = hoppeCharge -1*Time.deltaTime;
-            if (hoppeCharge < 0)
+            if (holdHopp)
             {
-                hoppe = true;
+                a.SetBool("jumpHold", true);
+                hoppeCharge = hoppeCharge - 1 * Time.deltaTime;
+                if (hoppeCharge < 0)
+                {
+                    hoppe = true;
+                }
             }
+            else
+            {
+                hoppeCharge = Random.Range(0.2f, 0.2f + maxHoppeCharge);
+            }
+            if (hoppe)
+            {
+                a.SetBool("jumpHold", false);
+                rb.AddForce(new Vector3(0, hoppeKraft, 0));
+                grounded = false;
+                holdHopp = false;
+                hoppe = false;
+            }
+            a.SetBool("grounded", grounded);
+            hopp();
         }
-        else
-        {
-            hoppeCharge = Random.Range(0.2f, 0.2f +maxHoppeCharge);
-        }
-        if (hoppe)
-        {
-            a.SetBool("jumpHold", false);
-            rb.AddForce(new Vector3(0, hoppeKraft, 0));
-            grounded = false;
-            holdHopp = false;
-            hoppe = false;
-        }
-        a.SetBool("grounded", grounded);
-        hopp();
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
