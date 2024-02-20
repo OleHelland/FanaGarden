@@ -112,7 +112,7 @@ AnimatorController:
   m_Name: jumpy lil fella_0
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: JumpHold
+  - m_Name: jumpHold
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -171,7 +171,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: JumpHold
+    m_ConditionEvent: jumpHold
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -5897416310735383821}
@@ -223,7 +223,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 2
-    m_ConditionEvent: JumpHold
+    m_ConditionEvent: jumpHold
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -6111333398073947244}
