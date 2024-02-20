@@ -92,12 +92,7 @@ public class JumpyFellaScript : MonoBehaviour
     {
         if (!grounded)
         {
-            transform.position = movement;
-            movement.x = movement.x + fart * retning * Time.deltaTime;
-        }
-        else
-        {
-            movement = transform.position;
+            transform.position = new Vector3(transform.position.x + fart * retning * Time.deltaTime, transform.position.y, transform.position.z);
         }
     }
     IEnumerator idle()

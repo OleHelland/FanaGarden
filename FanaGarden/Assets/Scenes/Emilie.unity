@@ -258,6 +258,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6652110440287476706, guid: d2be417008f5e494b8cdd8f73f211652, type: 3}
   m_PrefabInstance: {fileID: 1733340714160375477}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1459302658 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 4756867819732244029, guid: d2be417008f5e494b8cdd8f73f211652, type: 3}
+  m_PrefabInstance: {fileID: 1733340714160375477}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1867535620
 GameObject:
   m_ObjectHideFlags: 0
@@ -367,7 +372,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2037013361
 Transform:
   m_ObjectHideFlags: 0
@@ -470,19 +475,19 @@ PrefabInstance:
       objectReference: {fileID: -1480701021, guid: 99420f1f14f6e2d49b5e53a2f8cb69d3, type: 3}
     - target: {fileID: 1368352793212961647, guid: d2be417008f5e494b8cdd8f73f211652, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4756867819732244029, guid: d2be417008f5e494b8cdd8f73f211652, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5064638361866719836, guid: d2be417008f5e494b8cdd8f73f211652, type: 3}
       propertyPath: a
       value: 
-      objectReference: {fileID: 2037013363}
+      objectReference: {fileID: 1459302658}
     - target: {fileID: 5064638361866719836, guid: d2be417008f5e494b8cdd8f73f211652, type: 3}
       propertyPath: rulle
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5064638361866719836, guid: d2be417008f5e494b8cdd8f73f211652, type: 3}
       propertyPath: snuSjanse
