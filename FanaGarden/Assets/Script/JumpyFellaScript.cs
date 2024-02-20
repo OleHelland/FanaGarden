@@ -30,6 +30,10 @@ public class JumpyFellaScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if ( transform.rotation.x != 0)
+        {
+            a.SetBool("bliBall", true);
+        }
         transform.localScale = new Vector3(retning,1,1);
         if (holdHopp)
         {
