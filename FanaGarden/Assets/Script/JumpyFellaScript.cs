@@ -17,6 +17,7 @@ public class JumpyFellaScript : MonoBehaviour
     Rigidbody2D rb;
     public float hoppeKraft;
     int randomRetning;
+    public int snuSjanse;
     // Start is called before the first frame update
     void Start()
     {
@@ -75,8 +76,7 @@ public class JumpyFellaScript : MonoBehaviour
     IEnumerator idle()
     {
         yield return new WaitForSeconds(Random.Range(0.2f, Maxidle/2));
-        randomRetning = Random.Range(0, 11);
-        Debug.Log(randomRetning);
+        randomRetning = Random.Range(-1, snuSjanse);
         if (randomRetning == 1)
         {
             retning = retning * -1;
