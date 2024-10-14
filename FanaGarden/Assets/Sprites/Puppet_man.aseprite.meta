@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 6c1e2bc900ee705478e664c9236326f9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638440342980958434
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Puppet_man_Frame_0
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 35
+      height: 36
+    spriteID: ccbcfab43433e9740a4d43feb8991abe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Puppet_man_Frame_1
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 48
+      width: 35
+      height: 36
+    spriteID: 9cbb5cd60d432534dbded242f0fe7428
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 48}
+  - name: Puppet_man_Frame_2
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 92
+      width: 35
+      height: 36
+    spriteID: de08f3b645d966943b0bb119e1c3be43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 92}
+  - name: Puppet_man_Frame_3
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 136
+      width: 35
+      height: 36
+    spriteID: e977951306a9d824fb5594408e72eb15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 136}
+  - name: Puppet_man_Frame_4
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 180
+      width: 35
+      height: 36
+    spriteID: 8bffcf17a79ecfa4fa238ecb7ad5f5d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 180}
+  - name: Puppet_man_Frame_5
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 4
+      width: 35
+      height: 36
+    spriteID: 6547c572927385546bb7ebaca9964aa9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 4}
+  - name: Puppet_man_Frame_6
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 48
+      width: 35
+      height: 36
+    spriteID: e81febe1b91ceb440ac81f3c23fa4266
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 48}
+  - name: Puppet_man_Frame_7
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 92
+      width: 35
+      height: 36
+    spriteID: c4fa798522f938940a0a037e46ab7861
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 92}
+  - name: Puppet_man_Frame_8
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 136
+      width: 35
+      height: 36
+    spriteID: aadffd11678f38748b198f2296deaccc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 136}
+  - name: Puppet_man_Frame_9
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 180
+      width: 35
+      height: 36
+    spriteID: bde5f52de3bcfbb4c95aec6e14e9cc94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 180}
+  - name: Puppet_man_Frame_10
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 4
+      width: 35
+      height: 36
+    spriteID: 5b6200ba8e3e36944860ac29092f7fb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 4}
+  - name: Puppet_man_Frame_11
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 48
+      width: 35
+      height: 36
+    spriteID: 98c310694a038634cb02b10612ef296c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 48}
+  - name: Puppet_man_Frame_12
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 92
+      width: 35
+      height: 36
+    spriteID: ad3fbf9c4d1121b4da57addb496f7502
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 92}
+  - name: Puppet_man_Frame_13
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 136
+      width: 35
+      height: 36
+    spriteID: e7b92ff536b888d438bbe50ec16c3adb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 136}
+  - name: Puppet_man_Frame_14
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 180
+      width: 35
+      height: 36
+    spriteID: 1c5aee35341aa5d488b168412415f0f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 180}
+  - name: Puppet_man_Frame_15
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 4
+      width: 35
+      height: 36
+    spriteID: 91f46b5da42f36c43ac4996a45671f11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -495685763
+    name: Puppet_man
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Puppet_man_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: ccbcfab43433e9740a4d43feb8991abe
+    - name: Puppet_man_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: 9cbb5cd60d432534dbded242f0fe7428
+    - name: Puppet_man_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: de08f3b645d966943b0bb119e1c3be43
+    - name: Puppet_man_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: e977951306a9d824fb5594408e72eb15
+    - name: Puppet_man_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: 8bffcf17a79ecfa4fa238ecb7ad5f5d9
+    - name: Puppet_man_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: 6547c572927385546bb7ebaca9964aa9
+    - name: Puppet_man_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: e81febe1b91ceb440ac81f3c23fa4266
+    - name: Puppet_man_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: c4fa798522f938940a0a037e46ab7861
+    - name: Puppet_man_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: aadffd11678f38748b198f2296deaccc
+    - name: Puppet_man_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: bde5f52de3bcfbb4c95aec6e14e9cc94
+    - name: Puppet_man_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: 5b6200ba8e3e36944860ac29092f7fb1
+    - name: Puppet_man_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: 98c310694a038634cb02b10612ef296c
+    - name: Puppet_man_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: ad3fbf9c4d1121b4da57addb496f7502
+    - name: Puppet_man_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: e7b92ff536b888d438bbe50ec16c3adb
+    - name: Puppet_man_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: 1c5aee35341aa5d488b168412415f0f6
+    - name: Puppet_man_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 9
+        y: 12
+        width: 35
+        height: 36
+      spriteId: 91f46b5da42f36c43ac4996a45671f11
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}
